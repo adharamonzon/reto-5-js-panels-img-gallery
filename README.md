@@ -7,3 +7,9 @@ Se crearán 5 paneles de fotografías, cada foto con un texto de 3 palabas, en l
 Al hacer click en la fotografía, está aumentará de tamaño, se pueden tener varías fotografías abiertas a la vez, repartiendo por igual el tamaño de las fotografías y aparecerá el texto completo de la fotografía.
 
 Este reto ha sido un reto más complejo de css, en el que hay muchas clases, flexbox anidados y haciendo los tamaños relativos a la distribución de la pantalla.
+
+# Resultado
+
+[![Demo de la aplicación](./css/video/demo-reto-5.mp4)
+
+https://adharamonzon.github.io/reto-5-js-panels-img-gallery/
