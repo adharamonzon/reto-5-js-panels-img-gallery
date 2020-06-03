@@ -10,6 +10,6 @@ Este reto ha sido un reto más complejo de css, en el que hay muchas clases, fle
 
 # Resultado
 
-[![imagen de la aplicación](./css/images/image.png)
+![imagen de la aplicación](./css/images/image.png)
 
 https://adharamonzon.github.io/reto-5-js-panels-img-gallery/
